@@ -5,3 +5,4 @@ hw1/data/
 sem04/data/
 hw2/dataset
 *.zip
+*.pickle
