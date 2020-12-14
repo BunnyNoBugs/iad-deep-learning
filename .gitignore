@@ -7,3 +7,4 @@ hw2/dataset
 *.zip
 *.pickle
 hw2/archive
+sem08/mnist
